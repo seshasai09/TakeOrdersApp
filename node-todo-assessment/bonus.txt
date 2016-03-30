@@ -1,0 +1,5 @@
+1. For the jumbotron component I added a background image of a restaurant so as get psychological feeling that the app is for restaurant.
+2. I chose a bright background so that it looks flashy and the data can be clearly visible.
+3. I chose to display the food items in a table with alternate colours because it gives clear distinction between data and data displayed in table looks more sturctured.
+4. I chose to display delete button in red color because it makes user aware.
+5. I chose to show items count and total on the jumbotron because it gives very good visibility.
